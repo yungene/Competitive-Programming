@@ -45,6 +45,34 @@ public class PolynomialMultiplication {
 }
 
 // kattis utility for faster i/o
+/** Simple yet moderately fast I/O routines.
+ *
+ * Example usage:
+ *
+ * Kattio io = new Kattio(System.in, System.out);
+ *
+ * while (io.hasMoreTokens()) {
+ *    int n = io.getInt();
+ *    double d = io.getDouble();
+ *    double ans = d*n;
+ *
+ *    io.println("Answer: " + ans);
+ * }
+ *
+ * io.close();
+ *
+ *
+ * Some notes:
+ *
+ * - When done, you should always do io.close() or io.flush() on the
+ *   Kattio-instance, otherwise, you may lose output.
+ *
+ * - The getInt(), getDouble(), and getLong() methods will throw an
+ *   exception if there is no more data in the input, so it is generally
+ *   a good idea to use hasMoreTokens() to check for end-of-file.
+ *
+ * @author: Kattis
+ */
 
 import java.util.StringTokenizer;
 import java.io.BufferedReader;
