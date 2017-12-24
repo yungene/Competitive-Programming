@@ -19,10 +19,6 @@ public class Billiard {
 			double bn2 = Math.pow(b * n, 2);
 			double am2 = Math.pow(a * m, 2);
 			double velocity = Math.sqrt(am2 + bn2) / s;
-			// velocity *= 100;
-			// velocity = (double)(((int) velocity )/ 100.0);
-			// FastReader.out.println("Velocity: " + velocity);
-			// FastReader.out.flush();
 			double cosine = (a * m) / (velocity * s);
 			double angle = Math.acos(cosine);
 			FastReader.out.printf("%.2f %.2f%n", Math.toDegrees(angle), velocity);
@@ -43,10 +39,6 @@ class FastReader {
 	static String line = "";
 
 	public static String next() {
-		/*
-		 * while(! tokenizer.hasMoreTokens() || tokenizer == null) { tokenizer = new
-		 * StringTokenizer(reader.readLine()); } return tokenizer.nextToken();
-		 */
 		String toPrint = nextToken();
 		token = null;
 		return toPrint;
