@@ -6,6 +6,8 @@ My solutions to problems various online judges
 
 [Polynomial Multiplication](https://open.kattis.com/problems/polymul1) - [Java solution](/Kattis/PolynomialMultiplication.java)
 
+[Billiard](https://open.kattis.com/problems/billiard) - [java solution](/Kattis/Billiard.java)
+
 
 ## Uri Online Judge
 [Crowstorm](https://www.urionlinejudge.com.br/judge/en/problems/view/2203) - [Python 3 solution](/UriOnlineJudge/Crowstorm.py)
