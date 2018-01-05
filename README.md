@@ -8,6 +8,8 @@ My solutions to problems various online judges
 
 [Billiard](https://open.kattis.com/problems/billiard) - [java solution](/Kattis/Billiard.java)
 
+[Restauraunt Ratings](https://open.kattis.com/problems/ratings) - [Java solution](/Kattis/RestaurantRating.java)
+
 
 ## Uri Online Judge
 [Crowstorm](https://www.urionlinejudge.com.br/judge/en/problems/view/2203) - [Python 3 solution](/UriOnlineJudge/Crowstorm.py)
