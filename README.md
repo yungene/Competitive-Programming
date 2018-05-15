@@ -10,6 +10,8 @@ My solutions to problems various online judges
 
 [Restauraunt Ratings](https://open.kattis.com/problems/ratings) - [Java solution](/Kattis/RestaurantRating.java)
 
+[The Dragon of Loowater](https://open.kattis.com/problems/loowater) - [Java solution](/Kattis/TheDragonOfLoowater.java)
+
 
 ## Uri Online Judge
 [Crowstorm](https://www.urionlinejudge.com.br/judge/en/problems/view/2203) - [Python 3 solution](/UriOnlineJudge/Crowstorm.py)
