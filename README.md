@@ -1,7 +1,9 @@
 # OnlineJudges
 My solutions to problems various online judges
 
-## Kattis
+## [Kattis](https://open.kattis.com)
+
+
 [Patuljci](https://open.kattis.com/problems/patuljci) - [Java solution](/Kattis/Patuljci.java)
 
 [Polynomial Multiplication](https://open.kattis.com/problems/polymul1) - [Java solution](/Kattis/PolynomialMultiplication.java)
@@ -12,8 +14,9 @@ My solutions to problems various online judges
 
 [The Dragon of Loowater](https://open.kattis.com/problems/loowater) - [Java solution](/Kattis/TheDragonOfLoowater.java)
 
+[Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet) - [Java solution](/Kattis/wheresmyinternet.java)
+
 [Coast Length - 2.9](https://open.kattis.com/problems/coast) - [Java solution](/Kattis/CoastLength.java)
 
-
-## Uri Online Judge
+## [Uri Online Judge](https://www.urionlinejudge.com.br)
 [Crowstorm](https://www.urionlinejudge.com.br/judge/en/problems/view/2203) - [Python 3 solution](/UriOnlineJudge/Crowstorm.py)
