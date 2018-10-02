@@ -20,3 +20,7 @@ My solutions to problems various online judges
 
 ## [Uri Online Judge](https://www.urionlinejudge.com.br)
 [Crowstorm](https://www.urionlinejudge.com.br/judge/en/problems/view/2203) - [Python 3 solution](/UriOnlineJudge/Crowstorm.py)
+
+## [Geeks For Geeks](www.geeksforgeeks.org)
+
+[Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0) - [Java solution DP](/GeeksForGeeks/KnapsackWithDuplicates.java)
