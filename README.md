@@ -24,3 +24,8 @@ My solutions to problems various online judges
 ## [Geeks For Geeks](https://www.geeksforgeeks.org)
 
 [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0) - [Java solution DP](/GeeksForGeeks/KnapsackWithDuplicates.java)
+
+
+## [Leetcode](https://leetcode.com)
+
+[First Missing Positive - hard](https://leetcode.com/problems/first-missing-positive/) - [Java Solution](/LeetCode/FirstMissingPositive.java)
