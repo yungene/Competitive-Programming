@@ -10,11 +10,11 @@ My solutions to problems various online judges
 
 [Billiard](https://open.kattis.com/problems/billiard) - [java solution](/Kattis/Billiard.java)
 
-[Restauraunt Ratings](https://open.kattis.com/problems/ratings) - [Java solution](/Kattis/RestaurantRating.java)
+[Restauraunt Ratings - 3.4](https://open.kattis.com/problems/ratings) - [Java solution](/Kattis/RestaurantRating.java)
 
-[The Dragon of Loowater](https://open.kattis.com/problems/loowater) - [Java solution](/Kattis/TheDragonOfLoowater.java)
+[The Dragon of Loowater - 2.9](https://open.kattis.com/problems/loowater) - [Java solution](/Kattis/TheDragonOfLoowater.java)
 
-[Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet) - [Java solution](/Kattis/wheresmyinternet.java)
+[Where's My Internet?? - 3.0](https://open.kattis.com/problems/wheresmyinternet) - [Java solution](/Kattis/wheresmyinternet.java)
 
 [Coast Length - 2.9](https://open.kattis.com/problems/coast) - [Java solution](/Kattis/CoastLength.java)
 
