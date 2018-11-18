@@ -31,3 +31,8 @@ My solutions to problems various online judges
 [First Missing Positive - hard](https://leetcode.com/problems/first-missing-positive/) - [Java Solution](/LeetCode/FirstMissingPositive.java)
 
 [97. Interleaving String - hard](https://leetcode.com/problems/interleaving-string/)- [Java Solution - DP](/LeetCode/InterleavingString.java)
+
+
+## [Bloomberg](https://codecon.bloomberg.com)
+
+[Travel to the West - 2016 Qualifiers](https://codecon.bloomberg.com/challenger-series/3902) --- [Java Solution - Graph](/Bloomberg/TravelToTheWest.java)
