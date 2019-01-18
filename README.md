@@ -36,3 +36,5 @@ My solutions to problems various online judges
 ## [Bloomberg](https://codecon.bloomberg.com)
 
 [Travel to the West - 2016 Qualifiers](https://codecon.bloomberg.com/challenger-series/3902) --- [Java Solution - Graph](/Bloomberg/TravelToTheWest.java)
+
+[Lannisters of Justice - 2016 Qualifiers - Score: 300](https://codecon.bloomberg.com/challenger-series/3903) --- [Java Solution - expression tree](/Bloomberg/LannistersOfJustice.java)
