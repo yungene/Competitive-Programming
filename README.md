@@ -18,6 +18,8 @@ My solutions to problems various online judges
 
 [Coast Length - 2.9](https://open.kattis.com/problems/coast) - [Java solution](/Kattis/CoastLength.java)
 
+[Falling Apples - 3.6](https://open.kattis.com/problems/apples) - [Java solution](/Kattis/Apples.java)
+
 ## [Uri Online Judge](https://www.urionlinejudge.com.br)
 [Crowstorm](https://www.urionlinejudge.com.br/judge/en/problems/view/2203) - [Python 3 solution](/UriOnlineJudge/Crowstorm.py)
 
