@@ -22,6 +22,8 @@ My solutions to problems various online judges
 
 [Falling Apples - 3.6](https://open.kattis.com/problems/apples) --- [Java solution](/Kattis/Apples.java)
 
+[Kratki - 6.1](https://open.kattis.com/problems/kratki) --- [Java solution](/Kattis/Kratki.java)
+
 ## [Uri Online Judge](https://www.urionlinejudge.com.br)
 [Crowstorm](https://www.urionlinejudge.com.br/judge/en/problems/view/2203) --- [Python 3 solution](/UriOnlineJudge/Crowstorm.py)
 
