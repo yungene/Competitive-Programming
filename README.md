@@ -24,6 +24,13 @@ My solutions to problems various online judges
 
 [Kratki - 6.1](https://open.kattis.com/problems/kratki) --- [Java solution](/Kattis/Kratki.java)
 
+## [CodeJam 2019](https://codingcompetitions.withgoogle.com/codejam)
+Q1. Foregone Solution(17pts) --- [Java solution](/CodeJam2019/QF/Q1.java)
+
+Q2. You Can Go Your Own Way(24pts) --- [Java solution](/CodeJam2019/QF/Q2.java)
+
+Q3. Cryptopangrams(25pts) --- [Java solution](/CodeJam2019/QF/Cryptopangrams.java)
+
 ## [Uri Online Judge](https://www.urionlinejudge.com.br)
 [Crowstorm](https://www.urionlinejudge.com.br/judge/en/problems/view/2203) --- [Python 3 solution](/UriOnlineJudge/Crowstorm.py)
 
