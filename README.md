@@ -10,6 +10,8 @@ My solutions to problems various online judges
 
 [Billiard](https://open.kattis.com/problems/billiard) --- [java solution](/Kattis/Billiard.java)
 
+[Roman Holidays - 2.8](https://open.kattis.com/problems/romanholidays) --- [Java solution](/Kattis/RomanHolidays.java)
+
 [Restauraunt Ratings - 3.4](https://open.kattis.com/problems/ratings) --- [Java solution](/Kattis/RestaurantRating.java)
 
 [The Dragon of Loowater - 2.9](https://open.kattis.com/problems/loowater) --- [Java solution](/Kattis/TheDragonOfLoowater.java)
