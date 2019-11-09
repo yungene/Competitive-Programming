@@ -26,6 +26,10 @@ My solutions to problems various online judges
 
 [Kratki - 6.1](https://open.kattis.com/problems/kratki) --- [Java solution](/Kattis/Kratki.java)
 
+## [SPOJ](https://www.spoj.com)
+
+[NAJPF - Pattern Find](https://www.spoj.com/problems/NAJPF/) --- [Java solution](/SPOJ/NAJPF.java)
+
 ## [CodeJam 2019](https://codingcompetitions.withgoogle.com/codejam)
 Q1. Foregone Solution(17pts) --- [Java solution](/CodeJam2019/QF/Q1.java)
 
