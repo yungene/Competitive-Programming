@@ -1,5 +1,7 @@
 # OnlineJudges
-My solutions to problems various online judges
+My solutions to problems various online judges.
+
+Note: README is most likely not up to date! ;(
 
 ## [Kattis](https://open.kattis.com)
 
