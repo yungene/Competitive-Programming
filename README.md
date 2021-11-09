@@ -1,3 +1,7 @@
+# Presentations & Other
+
+[Introduction to Competitive Programming for DUCSS @ TCD 2021](/Intro_to_Competitive_Programming_DUCSS_public.pdf)
+
 # OnlineJudges
 My solutions to problems various online judges.
 
